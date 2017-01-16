@@ -1,4 +1,4 @@
-![termdown demo](/termdown.gif?raw=true)
+# Termdown
 
 ```
 Usage: termdown [OPTIONS] [TIMESPEC]
